@@ -159,7 +159,7 @@ global.nnnttt5 = 'https://www.instagram.com/xjeff.store' // MULTI - BOTS
 global.nnnttt6 = 'https://www.instagram.com/xjeff.store' // A.T.M.M
 global.channel1 = 'https://www.instagram.com/xjeff.store'
 global.channel2 = 'https://www.instagram.com/xjeff.store'
-global.channel3 = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4'
+global.channel3 = 'https://chat.whatsapp.com/EECop5LJf9r8WWrfPMUtew'
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.rg = ''
